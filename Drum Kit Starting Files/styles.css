@@ -17,31 +17,38 @@ footer {
 }
 
 .w {
-
+  background-image: url(images/crash.png);
+  object-fit: cover;
 }
 
 .a {
-
+  background-image: url(images/kick.png);
+  object-fit: cover;
 }
 
 .s {
-
+  background-image: url(images/snare.png);
+  object-fit: cover;
 }
 
 .d {
-
+  background-image: url(images/tom1.png);
+  object-fit: cover;
 }
 
 .j {
-
+  background-image: url(images/tom2.png);
+  object-fit: cover;
 }
 
 .k {
-
+  background-image: url(images/tom3.png);
+  object-fit: cover;
 }
 
 .l {
-
+  background-image: url(images/tom4.png);
+  object-fit: cover;
 }
 
 .set {
